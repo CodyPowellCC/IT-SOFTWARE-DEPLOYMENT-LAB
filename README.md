@@ -1,10 +1,12 @@
 # Software Deployment Lab on Windows Server 2022
 This virtualized lab showcases the deployment of widely used end-user software (Google Chrome and Adobe Reader) to client PCs using Windows Server 2022 as a Domain Controller with Active Directory (AD) integration. It includes configuration of Group Policy for automated software distribution in an offline enterprise environment.
 
-Windows Server 2022 (Domain Controller, AD, Group Policy)
-Windows 11 Pro (Client Machines)
-VirtualBox (Virtualization Platform)
-Active Directory, Group Policy, File Sharing
+- Windows Server 2022 (Domain Controller, AD, Group Policy)
+- Windows 11 Pro (Client Machines)
+- VirtualBox (Virtualization Platform)
+- Active Directory, Group Policy, File Sharing
+
+Installed Windows Server 2022 and 2 versions of Windows 11 Pro
 
   - Created new groups in Active Directory named ChromeUsers and AdobeUsers
 
