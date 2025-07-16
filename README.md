@@ -14,7 +14,7 @@ Installed Windows Server 2022 and 2 versions of Windows 11 Pro
 
   - Added Client1 and Client2 PC's to members of the ChromeUsers and AdobeUsers groups
 
-![Client1-Member](Client1-Member.png)![Client2-Member](!Client2-Member.png)
+![Client1-Member](Client1-Member.png)![Client2-Member](Client2-Member.png)
 
   -   Created 2 new GPO's under lab.com named AdobeDeploymentGPO and ChromeDeploymentGPO
 
